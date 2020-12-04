@@ -1,1 +1,1 @@
-## Experiment name
+## Implementation of 4x1 multiplexer and 1x4 demultiplexer using logic gates.
