@@ -1,0 +1,1 @@
+#### To analyse the truth table and working of 1x4 De-Multiplexer by using 3-input NAND and 1-input NOT logic gate ICs and 4x1 Multiplexer by using 3-input AND, 3-input OR, and 1-input NOT logic gate ICs.
